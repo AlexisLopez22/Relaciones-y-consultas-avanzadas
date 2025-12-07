@@ -21,8 +21,5 @@ Si ves un botón que dice "Sync Now" o un elefante gris en la barra de herramien
 4. Ejecutar la App
 Conecta tu celular por USB o inicia un Emulador en Android Studio.
 
-Listo 
-En el Repositorio de la segunda tarea se subio pero en la parte de master y tiene por defecto main solo
-se necesita cambiar eso 
-
+Listo disfrute lo que logre con videos de youtube su propio codigo de libros y ayuda de ia
 ![image alt] (https://github.com/AlexisLopez22/Relaciones-y-consultas-avanzadas/blob/master/Captura%20de%20pantalla%202025-12-06%20224120.png?raw=true)
