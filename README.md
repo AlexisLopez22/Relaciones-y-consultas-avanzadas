@@ -25,3 +25,4 @@ Listo
 En el Repositorio de la segunda tarea se subio pero en la parte de master y tiene por defecto main solo
 se necesita cambiar eso 
 
+![image alt] (https://github.com/AlexisLopez22/Relaciones-y-consultas-avanzadas/blob/master/Captura%20de%20pantalla%202025-12-06%20224120.png?raw=true)
